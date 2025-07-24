@@ -10,3 +10,8 @@ print(len(marks))
 student = ["Rohan" , 22 , "Engineering" , 95.7]
 student[0] = "Shyam"
 print(student[3])
+
+print(student[0:4])
+
+print(student[-3:-1])
+
