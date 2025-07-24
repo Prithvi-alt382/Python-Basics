@@ -1,0 +1,5 @@
+print("Hello World")
+print("Hi! This is my first python code")
+print("My Name is Prithvi Chauhan")
+print(35)
+print(23+35)
